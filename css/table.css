@@ -1,0 +1,31 @@
+table, td{
+    border: 0.5px solid #CDC3D0;
+    border-collapse: collapse;
+}
+
+td{
+    min-width: 5rem;
+    width: auto;
+    height: 3rem;
+    text-align: center;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
+}
+
+tr:nth-child(odd) {
+    background-color: #FCFCFC;
+}
+tr:nth-child(even) {
+    background-color: #d1d1d1;
+}
+
+tr{
+    font-weight: 700;
+}
+
+tr:first-child{
+    font-weight: 400 !important;
+
+}

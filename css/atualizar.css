@@ -1,0 +1,24 @@
+td{
+    padding: 0 !important;
+    min-width: 10rem;
+}
+td input{
+    border: none;
+    background-color: transparent;
+    text-align: center;
+    padding: 1rem 0 !important;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 700;
+    cursor: pointer;
+    box-sizing: border-box;
+    width: 10rem;
+}
+
+td button{
+    background-color: #27AE60;
+    border: none;
+    padding: 0.3rem;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.cel_exclude{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cel_exclude a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button_exclude{
+    background-color: rgb(255, 0, 0);
+    padding: 0.5rem;
+    border-radius: 5px;
+}
